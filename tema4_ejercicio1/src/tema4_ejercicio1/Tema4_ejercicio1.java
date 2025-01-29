@@ -20,7 +20,7 @@ public class Tema4_ejercicio1 {
 		z = a * b;
 		return z;
 	}
-
+	//Dividir
 	static int dividir(int a, int b) {
 		int z;
 		z = a / b;
