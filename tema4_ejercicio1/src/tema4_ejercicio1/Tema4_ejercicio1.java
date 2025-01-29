@@ -14,7 +14,7 @@ public class Tema4_ejercicio1 {
 		z = a - b;
 		return z;
 	}
-
+	//MULTIPLICAR
 	static int multiplicar(int a, int b) {
 		int z;
 		z = a * b;
