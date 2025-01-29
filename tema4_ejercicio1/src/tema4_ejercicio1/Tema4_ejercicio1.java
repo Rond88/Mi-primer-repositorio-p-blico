@@ -8,7 +8,7 @@ public class Tema4_ejercicio1 {
 		z = a + b;
 		return z;
 	}
-
+	//REstar
 	static int restar(int a, int b) {
 		int z;
 		z = a - b;
